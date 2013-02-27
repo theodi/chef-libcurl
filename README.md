@@ -1,7 +1,7 @@
 libcurl Cookbook
 =================
 
-The (curb)[https://rubygems.org/gems/curb] gem requires this stuff. The only existing similar cookbooks I could find were a bit broken.
+The [curb](https://rubygems.org/gems/curb]) gem requires this stuff. The only existing similar cookbooks I could find were a bit broken.
 
 Contributing
 ------------
